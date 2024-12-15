@@ -1,3 +1,3 @@
 # test-demo
 
-Author - Daksha Joshi
+Author - Daksha
